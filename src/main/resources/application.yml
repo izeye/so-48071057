@@ -1,0 +1,4 @@
+dist-price:
+  1234:
+    foo: 4567
+    bar: false

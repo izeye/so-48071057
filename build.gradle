@@ -1,0 +1,13 @@
+plugins {
+    id 'org.springframework.boot' version '1.5.9.RELEASE'
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter'
+
+    compileOnly 'org.projectlombok:lombok'
+}
